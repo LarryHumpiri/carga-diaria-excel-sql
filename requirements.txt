@@ -1,0 +1,4 @@
+pandas
+pyodbc
+openpyxl
+office365-cli

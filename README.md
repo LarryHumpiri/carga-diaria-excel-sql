@@ -34,11 +34,11 @@ El proceso está programado para ejecutarse automáticamente todos los días ant
 pip install pandas pyodbc openpyxl office365-cli
 ```
 ## Notas Adicionales
--Este proceso reemplazó un trabajo manual de ~30 minutos por uno completamente automatizado en menos de 20 segundos.
--Se evitó el uso de SSIS gracias a la integración con Python y Power Automate.
--El archivo runETL.txt actúa como una señal de seguridad para evitar procesamientos incompletos o innecesarios.
+- Este proceso reemplazó un trabajo manual de ~30 minutos por uno completamente automatizado en menos de 20 segundos.
+- Se evitó el uso de SSIS gracias a la integración con Python y Power Automate.
+- El archivo runETL.txt actúa como una señal de seguridad para evitar procesamientos incompletos o innecesarios.
 
 ## 🦁 By Larry Humpiri (LK)
-📧 Email: larryhumpiri@gmail.com
-🔗 GitHub: https://github.com/LarryHumpiri
-💼 LinkedIn: https://www.linkedin.com/in/larry-humpiri-obregon-565145189/
+- 📧 Email: larryhumpiri@gmail.com
+- 🔗 GitHub: https://github.com/LarryHumpiri
+- 💼 LinkedIn: https://www.linkedin.com/in/larry-humpiri-obregon-565145189/
